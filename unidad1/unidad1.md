@@ -30,4 +30,6 @@ Si actulitzo podem veura com la memoria disminueix.
 
 <img width="485" height="343" alt="image" src="https://github.com/user-attachments/assets/bf675ae2-3722-4cdd-838b-ab4db5933ac4" />
 
-I per configurar que s'executi al iniciar posare aquests paràmetres a la powershell
+I per configurar que s'executi al iniciar posare aquests paràmetres a la powershell.
+<img width="931" height="154" alt="Captura de pantalla de 2025-11-05 14-54-24" src="https://github.com/user-attachments/assets/f05edaf5-5de0-4d48-bd8b-d15c7fd0b301" />
+
