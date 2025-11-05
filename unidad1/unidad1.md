@@ -5,6 +5,7 @@ Per començar he creat la carpeta scripts on guardare l'script.
 <img width="369" height="57" alt="image" src="https://github.com/user-attachments/assets/6d91c586-8726-4e4a-9545-d20ed8a1bda2" />
 
 Seguidament creare l'script, que fara el segúent, s'obrira un menú en iniciar el Windows amb informació de la màquina com l'usuari, i la màquina. 
+
 <img width="395" height="269" alt="image" src="https://github.com/user-attachments/assets/987e673b-46eb-44b1-9d53-614212175294" />
 
 També disposara dels botons per llimpiar la cache i els fitxers temporals del directori tmp.
@@ -28,3 +29,5 @@ Si clico en Limpiar.
 Si actulitzo podem veura com la memoria disminueix.
 
 <img width="485" height="343" alt="image" src="https://github.com/user-attachments/assets/bf675ae2-3722-4cdd-838b-ab4db5933ac4" />
+
+I per configurar que s'executi al iniciar posare aquests paràmetres a la powershell
