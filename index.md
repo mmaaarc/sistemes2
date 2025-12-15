@@ -17,6 +17,6 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ### [Windows Script Inici](unidad1/unidad1.md)  
 
-### [Relación entre Unidades y Resultados de Aprendizaje (RAs)](ras.md)  
+### [Windows ActiveDirectory i VPN per al client](unidad2.md/unidad2.md)  
 
 ### [FAQs](faqs/faqs.md)  
