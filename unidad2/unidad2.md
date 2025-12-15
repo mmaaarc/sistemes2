@@ -120,6 +120,35 @@ Un cop fet això ja tindre feta la connexió per VPN de client a servidor.
 
 ## Connexió entre carpetes
 
-Seguidament he creat una carpeta on li donare accés solament al usuari VPNPROVA.
+Seguidament he creat una carpeta on li donare accés solament al usuari VPNPROVA dins del servidor.
+
+<img width="652" height="165" alt="image" src="https://github.com/user-attachments/assets/abc4c2ab-f953-4586-b497-16d590878636" />
+
+Anire a la secció de compartir la carpeta i la compartire al usuari VPNPROVA.
+
+<img width="581" height="265" alt="image" src="https://github.com/user-attachments/assets/1e5f8688-99f7-46a9-bc89-ac1576c26f87" />
+
+<img width="581" height="265" alt="image" src="https://github.com/user-attachments/assets/d0a4cb7e-b28f-44a4-b125-fcb394d74183" />
+
+I ara desde el client VPN ja podre accedir a la carpeta compartida pel servidor a l'usuari VPNPROVA.
+
+<img width="391" height="202" alt="image" src="https://github.com/user-attachments/assets/cfc6d596-a1ca-4b8b-95ef-6b8894c15b20" />
+
+Dins de la carpeta també puc crear fitxers i carpetes.
+
+I ara he creat un altre usuari que tindra la seva propia carpeta i no podra accedir a la carpeta de VPNPROVA.
+
+<img width="418" height="393" alt="image" src="https://github.com/user-attachments/assets/112483a4-5345-4684-bed5-1a90655650fe" />
+
+Per tant ara creare una altra nova connexió VPN per usuari2. 
+
+<img width="610" height="462" alt="image" src="https://github.com/user-attachments/assets/ce187b33-94cb-4d03-9ba3-ee0d87e8b6c9" />
+
+<img width="458" height="244" alt="image" src="https://github.com/user-attachments/assets/6dbe7f0a-846d-44b5-95e5-a62e8ef3b647" />
+
+I ja tindre un altra connexió amb l'usuari2 on podre accedir a la carpeta que he creat.
+
+<img width="364" height="206" alt="image" src="https://github.com/user-attachments/assets/967803fa-0bda-4107-99a6-260e529ce4ca" />
+
 
 
