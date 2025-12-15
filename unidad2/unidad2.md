@@ -111,7 +111,9 @@ Ara vaig a adaptadors de xarxa i activo la VPN.
 
 Un cop fet això ja tindre feta la connexió per VPN de client a servidor.
 
+
 <img width="483" height="154" alt="Captura de pantalla de 2025-12-11 15-18-09" src="https://github.com/user-attachments/assets/012c9217-9c54-438a-8b5f-ce850cd325a4" />
+
 
 <img width="361" height="252" alt="Captura de pantalla de 2025-12-11 15-18-21" src="https://github.com/user-attachments/assets/6a381117-be4b-4839-9f28-642a36bd955b" />
 
