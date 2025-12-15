@@ -105,11 +105,19 @@ I poso la IP del servidor i qualsevol nom.
 
 <img width="507" height="388" alt="image" src="https://github.com/user-attachments/assets/bb98a91d-58e3-4808-8e4c-78151330d797" />
 
+Ara vaig a adaptadors de xarxa i activo la VPN.
+
+<img width="637" height="496" alt="Captura de pantalla de 2025-12-11 15-10-50" src="https://github.com/user-attachments/assets/f52f0085-26d9-4ff5-9ee1-65074f8fad08" />
+
 Un cop fet això ja tindre feta la connexió per VPN de client a servidor.
 
-<img width="494" height="318" alt="image" src="https://github.com/user-attachments/assets/0b0ec772-c2a9-445f-aeca-f9a4c11a8e6e" />
+<img width="483" height="154" alt="Captura de pantalla de 2025-12-11 15-18-09" src="https://github.com/user-attachments/assets/012c9217-9c54-438a-8b5f-ce850cd325a4" />
 
-<img width="364" height="218" alt="image" src="https://github.com/user-attachments/assets/7e53111a-c286-48ed-b959-5b9ec335a631" />
+<img width="361" height="252" alt="Captura de pantalla de 2025-12-11 15-18-21" src="https://github.com/user-attachments/assets/6a381117-be4b-4839-9f28-642a36bd955b" />
 
-<img width="599" height="327" alt="image" src="https://github.com/user-attachments/assets/3a33c070-0f82-4009-9847-15d5fd185503" />
+
+## Connexió entre carpetes
+
+Seguidament he creat una carpeta on li donare accés solament al usuari VPNPROVA.
+
 
