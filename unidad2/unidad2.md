@@ -1,5 +1,4 @@
 ## Pràctica Windows 
-## Pràctica Windows 
 En primer lloc aquest és l'esquema de les IPs i la configuració dels equips entre client, servidor, on el client rebra una IP en VPN desde el servidor Windows Active Directory.
 
 <img width="439" height="289" alt="image" src="https://github.com/user-attachments/assets/d28d97ec-25b5-40a8-a345-1e7c2bc390a7" />
@@ -53,6 +52,7 @@ Ara el servidor ja consta de accés remot per als possibles clients.
 <img width="580" height="333" alt="image" src="https://github.com/user-attachments/assets/a0e861a4-9680-4c24-90ad-1572404532d0" />
 
 ## USUARI 
+
 Seguidament creo un usuari per fer les proves de connexió al servidor desde un altre dispositiu client.
 
 <img width="557" height="517" alt="image" src="https://github.com/user-attachments/assets/60dcf9fc-f427-45a2-b3e7-98a2e0899d2f" />
