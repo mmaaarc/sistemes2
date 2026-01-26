@@ -19,4 +19,5 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ### [Windows ActiveDirectory i VPN per al client](unidad2.md/unidad2.md)  
 
+### [Automatització funcional adaptada al context W](unidad3.md/unidad3.md)  
 ### [FAQs](faqs/faqs.md)  
