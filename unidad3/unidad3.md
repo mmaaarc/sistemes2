@@ -45,6 +45,27 @@ Ara he creat un index.html de prova dins de la ruta /inetpub/wwwroot on es guard
 
 ## CERTIFICATS I WEB AMB HTTPS
 
+
+<img width="560" height="149" alt="image" src="https://github.com/user-attachments/assets/58fd7b6a-74b7-41b9-a936-940223e50e05" />
+
+<img width="403" height="559" alt="image" src="https://github.com/user-attachments/assets/d86ed353-2e5e-4329-9691-467be703e896" />
+
+<img width="403" height="563" alt="image" src="https://github.com/user-attachments/assets/1c58f678-fc0f-4f48-8445-4f0ea4e4a0a4" />
+
+<img width="401" height="560" alt="image" src="https://github.com/user-attachments/assets/977f47ca-4340-4d93-b8e4-67f9918e6782" />
+
+<img width="552" height="406" alt="image" src="https://github.com/user-attachments/assets/f9ee8b63-93c6-45cc-b31a-79c9f6a0b255" />
+
+<img width="419" height="145" alt="image" src="https://github.com/user-attachments/assets/a7ce2885-9add-4f14-b0d9-00518d851b8d" />
+
+<img width="375" height="86" alt="image" src="https://github.com/user-attachments/assets/4b4ee1de-3f34-463c-8fe4-676aa23901d7" />
+
+
+<img width="395" height="251" alt="image" src="https://github.com/user-attachments/assets/e93ba278-4628-4335-b19b-b752073b5c92" />
+
+<img width="561" height="72" alt="image" src="https://github.com/user-attachments/assets/c94b1f10-a326-4220-8d40-e433473f76cb" />
+
+
 Per poder passar la web a https, és necessari un certificat web, en el meu cas he creat jo mateix el certificat.
 
 Per tant m'he dirigit a la'apartat Administrador de IIS dins del servidor, he seleccionat la màquina i he fet clic a certificados de servidor.
