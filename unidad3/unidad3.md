@@ -65,7 +65,8 @@ Ara he creat un index.html de prova dins de la ruta /inetpub/wwwroot on es guard
 
 <img width="561" height="72" alt="image" src="https://github.com/user-attachments/assets/c94b1f10-a326-4220-8d40-e433473f76cb" />
 
-<img width="531" height="426" alt="image" src="https://github.com/user-attachments/assets/b95e13c5-9649-4e83-adf7-d57f5c9d1485" />
+<img width="536" height="429" alt="image" src="https://github.com/user-attachments/assets/a02144f9-a1a2-4bc4-a289-e15cd390731e" />
+
 
 
 Per poder passar la web a https, és necessari un certificat web, en el meu cas he creat jo mateix el certificat.
