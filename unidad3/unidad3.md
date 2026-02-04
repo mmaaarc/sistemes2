@@ -115,6 +115,7 @@ I efectivament ja tinc el meu inde.html funcional amb https i http.
 
 <img width="694" height="186" alt="image" src="https://github.com/user-attachments/assets/01904ab1-2ea3-4198-9a64-17a424907db6" />
 
+<img width="527" height="154" alt="image" src="https://github.com/user-attachments/assets/4fdfa0dd-5f56-4b34-9fd8-d1c19713717c" />
 
 
 
